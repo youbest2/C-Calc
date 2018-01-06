@@ -48,8 +48,8 @@ namespace CSCALC
 
         private void standarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            this.Width = 254;
-            txtDisplay.Width = 218;
+            this.Width = 294;
+            txtDisplay.Width = 254;
 
         }
 
